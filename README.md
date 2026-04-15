@@ -23,6 +23,14 @@ This project is a shell script-based monitoring system that tracks server health
 4. Generates alerts if thresholds exceed
 5. Cron job runs script automatically every minute
 
+## 📸 Screenshots
+
+### Script Output
+![Script Output](screenshots/monitorscript.png)
+
+### Logs with Alerts
+![Logs Output](screenshots/systemlog-cronjob.png)
+
 ## ▶️ Setup Instructions
 ```bash
 chmod +x monitor.sh
@@ -36,14 +44,6 @@ ALERT: High CPU usage - 85%
 Disk Usage: 78%
 SSH Status: active
 --------------------------
-
-## 📸 Screenshots
-
-### Script Output
-![Script Output](screenshots/monitorscript.png)
-
-### Logs with Alerts
-![Logs Output](screenshots/systemlog-cronjob.png)
 
 🎯 Use Case
 
