@@ -1,5 +1,5 @@
 ## 🚀 Server Monitoring & Alert System (DevOps Project)
-
+🚀 A lightweight DevOps monitoring system built using Bash scripting and cron automation.
 ## 📌 Overview
 This project is a shell script-based monitoring system that tracks server health and generates alerts when thresholds are exceeded.
 
@@ -11,10 +11,12 @@ This project is a shell script-based monitoring system that tracks server health
 - Automated execution using cron jobs
 - Logs stored for analysis
 
-## 🧰 Technologies Used
-- Linux
-- Shell Scripting (Bash)
-- Cron Jobs
+## 🧠 Skills Demonstrated
+- Linux system monitoring
+- Shell scripting (Bash)
+- Cron job automation
+- Log analysis and alerting
+- Debugging and performance testing
 
 ## 🧑‍💻 How It Works
 1. Script collects system metrics (CPU, disk, service status)
@@ -35,7 +37,7 @@ This project is a shell script-based monitoring system that tracks server health
 ```bash
 chmod +x monitor.sh
 crontab -e
-* * * * * /home/user/monitor.sh
+* * * * * /home/anumol/server-monitoring-alert-system/monitor.sh
 
 📊 Sample Output
 ------ System Report ------
@@ -47,7 +49,8 @@ SSH Status: active
 
 🎯 Use Case
 
-This project simulates a basic monitoring system similar to tools like Nagios or Prometheus.
+## 🎯 Use Case
+This project demonstrates a basic server monitoring system similar to real-world tools like Nagios or Prometheus, focusing on CPU, disk usage, and service health monitoring with automated alerting.
 
 🚀 Future Improvements
 Email alerts
