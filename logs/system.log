@@ -1,0 +1,42 @@
+------ System Report ------
+Wed Apr 15 01:35:02 AM IST 2026
+CPU Usage: 0%
+Disk Usage: 28%
+SSH Status: inactive
+ALERT: SSH service is down!
+--------------------------
+------ System Report ------
+Wed Apr 15 01:38:11 AM IST 2026
+CPU Usage: 10%
+Disk Usage: 28%
+SSH Status: inactive
+ALERT: SSH service is down!
+--------------------------
+------ System Report ------
+Wed Apr 15 01:54:08 PM IST 2026
+CPU Usage: 100%
+ALERT: High CPU usage - 100%
+Disk Usage: 29%
+SSH Status: inactive
+ALERT: SSH service is down!
+--------------------------
+------ System Report ------
+Wed Apr 15 01:57:39 PM IST 2026
+Debug CPU : 100
+CPU Usage: 100%
+ALERT: High CPU usage - 100%
+Disk Usage: 32%
+ALERT: High Disk usage - 32%
+SSH Status: inactive
+ALERT: SSH service is down!
+--------------------------
+------ System Report ------
+Wed Apr 15 02:32:44 PM IST 2026
+Debug CPU : 100
+CPU Usage: 100%
+ALERT: High CPU usage - 100%
+Disk Usage: 32%
+ALERT: High Disk usage - 32%
+SSH Status: inactive
+ALERT: SSH service is down!
+--------------------------
