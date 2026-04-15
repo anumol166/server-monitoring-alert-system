@@ -37,6 +37,14 @@ Disk Usage: 78%
 SSH Status: active
 --------------------------
 
+## 📸 Screenshots
+
+### Script Output
+![Script Output](screenshots/monitorscript.png)
+
+### Logs with Alerts
+![Logs Output](screenshots/systemlog-cronjob.png)
+
 🎯 Use Case
 
 This project simulates a basic monitoring system similar to tools like Nagios or Prometheus.
